@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE.png" alt="Marcos Vasconcelos Banner" width="100%">
+  <img src="banner.png" alt="Marcos Vasconcelos Banner" width="100%">
 </p>
 
 ---
